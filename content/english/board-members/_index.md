@@ -1,3 +1,5 @@
 ---
-title: "Board Memebers"
+title: "Board Members"
+layout: "authors"
+type: "authors"
 ---

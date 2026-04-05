@@ -1,0 +1,16 @@
+# wrangler.toml
+name = 'iowaradiooperators'
+compatibility_date = "2025-04-04"
+
+[build]
+command = "chmod +x build.sh && ./build.sh"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
+
+[vars]
+HUGO_VERSION = "0.160.0"
+HUGO_ENV = "production"
+NODE_VERSION = "24.13.0"
+TZ = "America/Chicago"
