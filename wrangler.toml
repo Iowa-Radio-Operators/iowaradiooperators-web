@@ -1,5 +1,5 @@
 # wrangler.toml
-name = 'iowaradiooperators'
+name = 'iowaradiooperators-web'
 compatibility_date = "2025-04-04"
 
 [build]
