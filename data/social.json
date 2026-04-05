@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/k0iro"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/Iowa-Radio-Operators"
+    },
+    {
+      "name": "Youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@K0IRO-IowaRadioOperators"
+    }
+  ]
+}
